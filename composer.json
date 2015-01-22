@@ -8,9 +8,8 @@
         "vda/util": "0.11.*|0.12.*"
     },
     "autoload": {
-        "psr-0": { "": "" }
+        "psr-4": { "Vda\\Config\\": "src/" }
     },
-    "target-dir": "Vda/Config",
     "minimum-stability": "dev",
     "extra": {
         "branch-alias": {
